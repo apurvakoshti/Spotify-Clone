@@ -1,1 +1,1 @@
-# Spotify-Clone
+Spotify Clone Project using only HTML and CSS. 
