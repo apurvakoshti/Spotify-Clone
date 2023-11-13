@@ -1,1 +1,1 @@
-Spotify Clone Project using only HTML and CSS. 
+Spotify Clone Project using HTML and CSS. 
