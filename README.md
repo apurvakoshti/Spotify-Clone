@@ -6,11 +6,6 @@ Spotify is a software application that enable users to listen music, podcasts an
 
 - **Frontend:** HTML, CSS
 
-## Prerequisites
-
-- HTML
-- CSS
-
 ## Screenshot
 
 ![Spotify-Clone](spotify.png)
