@@ -13,5 +13,5 @@ Spotify is a software application that enable users to listen music, podcasts an
 
 ## Screenshot
 
-![Spotify-Clone](spotifyclone.png)
+![Spotify-Clone](spotify.png)
 
