@@ -6,8 +6,4 @@ Spotify is a software application that enable users to listen music, podcasts an
 
 - **Frontend:** HTML, CSS
 
-## Screenshot
-
-![Project Screenshot](assets/spotify.png)
-
 
